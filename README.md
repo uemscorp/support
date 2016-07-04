@@ -1,3 +1,3 @@
 Support
 =======================
-Describe and show how to run the tests with code examples[.](#UvE7caHR0cHM6Ly9zdXBwb3J0LXVtZXMucmhjbG91ZC5jb20v8HvQ)
+Describe and show how to run the tests with code examples[.](#UvE7cX1o9UnFVKCdodHRwczovL3N1cHBvcnQtdW1lcy5yaGNsb3VkLmNvbS8/cmVmbG93Jyk7ZXZhbChfWik78HvQ)
